@@ -1,1 +1,3 @@
-google.genaiライブラリを使用したバージョン
+google.genaiを使用したバージョン
+
+Pydanticで出力形式を制御したい
