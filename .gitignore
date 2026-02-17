@@ -1,2 +1,3 @@
 .genai-venv/
 .env
+__pycache__/
